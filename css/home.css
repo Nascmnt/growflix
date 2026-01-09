@@ -1,0 +1,7 @@
+body {
+    background-color: black;
+}
+
+.home-banner {
+    background-image: url(/assets/imgs/banner-initial.png);
+}
